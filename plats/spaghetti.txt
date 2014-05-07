@@ -1,0 +1,8 @@
+Spaghetti
+13
+5
+:/Plats/plats/spaghetti.jpg
+3
+Pates
+Tomate
+Viande

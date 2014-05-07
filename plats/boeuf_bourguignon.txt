@@ -1,0 +1,10 @@
+Boeuf Bourguignon
+12
+5
+:/Plats/plats/boeuf-bourguignon.jpg
+5
+Boeuf
+Carotte
+Oignon
+Ail
+Vin rouge

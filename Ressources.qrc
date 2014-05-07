@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>images/arrowL.png</file>
+        <file>images/arrowR.png</file>
+        <file>images/eau.png</file>
+        <file>images/LanguetteDown.png</file>
+        <file>images/Serveur.png</file>
+        <file>images/Pain.png</file>
+        <file>images/NumTable.png</file>
+        <file>images/LangeutteUp.png</file>
+        <file>images/Confirm.jpg</file>
+        <file>images/Banner.png</file>
+    </qresource>
+    <qresource prefix="/Plats">
+        <file>plats/boeuf_bourguignon.txt</file>
+        <file>plats/boeuf-bourguignon.jpg</file>
+        <file>plats/creme_brulee.txt</file>
+        <file>plats/Creme-Brulee.jpg</file>
+        <file>plats/salade_nicoise.jpg</file>
+        <file>plats/salade_nicoise.txt</file>
+        <file>plats/spaghetti.jpg</file>
+        <file>plats/spaghetti.txt</file>
+        <file>plats/tarte_citron.txt</file>
+        <file>plats/Tartelette_Citron.jpg</file>
+    </qresource>
+    <qresource prefix="/Menus">
+        <file>menus/Menu1.txt</file>
+        <file>menus/Menu2.txt</file>
+        <file>menus/AlaCarte.txt</file>
+    </qresource>
+</RCC>

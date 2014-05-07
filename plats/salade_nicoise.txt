@@ -1,0 +1,9 @@
+Salade Niçoise
+7
+2
+:/Plats/plats/salade_nicoise.jpg
+4
+Laitue
+Tomates
+Olives
+Anchois
